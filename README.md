@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello GitHub Community!
+
+My name is Tif and I am new to programming and just hoping I catch on quickly!
